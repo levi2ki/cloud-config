@@ -3,4 +3,4 @@ spring:
     config:
       server:
         git:
-          uri: file://config-repo
+          uri: file://../config-repo
