@@ -4,3 +4,4 @@ spring:
       server:
         git:
           uri: https://github.com/levi2ki/cloud-config
+          searchPaths: '{application}/{profile}'
